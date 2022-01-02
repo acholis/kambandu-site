@@ -206,7 +206,7 @@ p {
     top: 0;
     width: 100%;
     z-index: 9999999;
-    background-color: #fe5b4a
+    background-color: #089b08b4
 }
 
 .preloader .spinner {
@@ -241,6 +241,10 @@ p {
     }
 }
 
+.br-green{
+    background-color: #089b0824!important;
+}
+
 /*-------------------------------------------------------------------------------------
     header
 ---------------------------------------------------------------------------------------*/
@@ -268,7 +272,7 @@ p {
 
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link.active {
-    color: #fe5b4a
+    color: #089b08b4
 }
 
 .navbar-nav .nav-item {
@@ -281,7 +285,7 @@ p {
 ---------------------------------------------------------------------------------------*/
 
 #home-area {
-    background-image: url(../images/banner-1.jpg);
+    background-image: url(../images/banner-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 100px 0 60px
@@ -298,7 +302,7 @@ p {
 
 .caption h2 {
     font-weight: 600;
-    color: #e74c3c;
+    color: #089b08b4;
 }
 
 .caption a {
@@ -309,7 +313,7 @@ p {
     padding: 14px 40px;
     border-radius: 4px;
     margin-top: 40px;
-    color: #e74c3c;
+    color: #089b08b4;
     font-weight: 600;
     font-size: 18px;
 }
@@ -364,7 +368,7 @@ p {
     content: '';
     width: 50px;
     height: 2px;
-    background-color: #e74c3c;
+    background-color: #089b08b4;
     left: 0;
     top: 12px;
     position: absolute;
@@ -386,7 +390,7 @@ p {
     width: 120px;
     height: 120px;
     line-height: 120px;
-    background-color: #fe5b4a;
+    background-color: #089b08b4;
     border-radius: 50%;
     color: #fff;
     font-size: 60px;
@@ -443,7 +447,7 @@ p {
     content: '';
     width: 30px;
     height: 2px;
-    background-color: #e74c3c;
+    background-color: #089b08b4;
     left: 0;
     top: 12px;
     position: absolute;
@@ -478,7 +482,7 @@ p {
 
 .about-cont a {
     display: inline-block;
-    background-color: #fe5b4a;
+    background-color: #089b08b4;
     padding: 12px 30px;
     margin: 40px 0 0;
     color: #fff;
@@ -540,7 +544,7 @@ p {
 }
 
 .video-cont {
-    background-color: #fe5b4a;
+    background-color: #089b08b4;
     padding: 50px 150px 50px 50px
 }
 
@@ -562,7 +566,7 @@ p {
     font-size: 30px;
     line-height: 110px;
     padding: 0 28px;
-    background-color: #fe5b4a;
+    background-color: #089b08b4;
     color: #fff;
     position: relative
 }
@@ -579,7 +583,7 @@ p {
     top: -5px;
     height: 120px;
     width: 120px;
-    border: 3px solid #fe5b4a;
+    border: 3px solid #089b08b4;
     border-radius: 50%;
     -webkit-animation: icon-bubble 1s infinite forwards linear;
     animation: icon-bubble 1s infinite forwards linear;
@@ -592,7 +596,7 @@ p {
     top: -5px;
     height: 120px;
     width: 120px;
-    border: 3px solid #fe5b4a;
+    border: 3px solid #089b08b4;
     border-radius: 50%;
     -webkit-animation: icon-bubble 1s infinite forwards linear 0.5s;
     animation: icon-bubble 1s infinite forwards linear 0.5s;
@@ -682,7 +686,7 @@ p {
 }
 
 .why-chose-cont li i {
-    color: #e74c3c;
+    color: #089b08b4;
 }
 
 /*-------------------------------------------------------------------------------------
@@ -711,7 +715,7 @@ p {
     font-weight: 700;
     margin: 10px 0 10px;
     font-size: 26px;
-    color: #e74c3c
+    color: #089b08b4
 }
 
 .product-cont a {
@@ -724,8 +728,8 @@ p {
 }
 
 .product-cont a:hover {
-    background-color: #e74c3c;
-    border-color: #e74c3c;
+    background-color: #089b08b4;
+    border-color: #089b08b4;
     color: #fff
 }
 
@@ -755,7 +759,7 @@ p {
     position: absolute;
     left: 30px;
     top: 21px;
-    color: #e74c3c;
+    color: #089b08b4;
     font-size: 22px;
 }
 
@@ -763,7 +767,7 @@ p {
     position: absolute;
     right: 7px;
     top: 5px;
-    background-color: #e74c3c;
+    background-color: #089b08b4;
     border: 0;
     color: #fff;
     padding: 12px 30px;
@@ -817,7 +821,7 @@ p {
 
 .client-img img {
     border-radius: 50%;
-    border: 2px solid #e74c3c;
+    border: 2px solid #089b08b4;
 }
 
 .client-info {
@@ -827,7 +831,7 @@ p {
 .client-details h5 {
     font-weight: 600;
     margin: 0 0 4px;
-    color: #e74c3c
+    color: #089b08b4
 }
 
 /*-------------------------------------------------------------------------------------
@@ -916,7 +920,7 @@ p {
 }
 
 .blog-single h3 a:hover {
-    color: #fe5b4a
+    color: #089b08b4
 }
 
 /*-------------------------------------------------------------------------------------
@@ -933,7 +937,7 @@ p {
 
 .contact-info-single h6 {
     font-weight: 500;
-    color: #e74c3c
+    color: #089b08b4
 }
 
 .contact-social li {
@@ -985,5 +989,5 @@ p {
 }
 
 #footer p a {
-    color: #e74c3c
+    color: #089b08b4
 }
