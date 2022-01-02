@@ -296,7 +296,8 @@ p {
 }
 
 .caption h1 {
-    font-weight: 600;
+    font-weight: 100;
+    font-size: 35px;
     margin-bottom: 30px;
 }
 
