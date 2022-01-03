@@ -55,6 +55,11 @@ ul {
     padding: 0
 }
 
+
+.img-icon{
+    width: 60%;
+}
+
 a,
 a:visited,
 a:focus,
@@ -309,8 +314,8 @@ p {
 .caption a {
     display: inline-block;
     background-color: #fff;
-    -webkit-box-shadow: 0 6px 30px rgba(231, 76, 60, 0.5);
-    box-shadow: 0 6px 30px rgba(231, 76, 60, 0.5);
+    -webkit-box-shadow: 0 6px 30px rgb(100 172 71);
+    box-shadow: 0 6px 30px rgb(100 172 71);
     padding: 14px 40px;
     border-radius: 4px;
     margin-top: 40px;
